@@ -11,8 +11,8 @@
 	<h1>Hello JSP and Servlet!</h1>
 	<form action="helloServlet" method="post">
 		Enter your name: 	<input type="text" name="yourName" size="20">
-		<!-- <br>
-		Enter your hobby: 	<input type="text" name="hobby" size="20">-->
+		<br>
+		Enter your hobby: 	<input type="text" name="hobby" size="20">
 		<br>
 		<input type="submit" value="submit" />
 	</form>
